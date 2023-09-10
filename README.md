@@ -1,7 +1,5 @@
-<h1>👋 Hi! Nice to see you.</h1>
-
-🌌 Please always maintain a passion for life.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%F0%9F%91%8B+Hi!+Nice+to+see+you.)](https://git.io/typing-svg)  <br/>
+🌌 Please always maintain a passion for life. <br/>
 <h3>Things I code with</h3>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=f5f5f5)
