@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%F0%9F%91%8B+Hi!+Nice+to+see+you.)](https://git.io/typing-svg)<br/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=%F0%9F%91%8B+Hi!+Nice+to+see+you.)<br/>
 🌌 Please always maintain a passion for life.
 
 <h3>Things I code with</h3>
