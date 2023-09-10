@@ -7,6 +7,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=f5f5f5)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=f5f5f5)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=f5f5f5)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=f5f5f5)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=f5f5f5)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=f5f5f5)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=f5f5f5)
